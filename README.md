@@ -17,18 +17,21 @@ In recent years, I've focused on **smart contract development**, **decentralized
 ## ⚡ What I’m Doing in Web3
 
 🚀 **Solidity Development**  
+  
 I design and implement secure and optimized smart contracts with:
 - Solidity, Foundry, Hardhat  
 - OpenZeppelin & Solidstate  
 - Static code analysis (Slither)
 
 🔒 **Smart Contract Security**  
+  
 Security first! My contracts are:
 - Covered with 100% test coverage  
 - Audited with Slither & external audits  
 - Monitored using Tenderly
 
 🌉 **Cross-Chain & Interoperability**  
+  
 Working on projects using:
 - Chainlink CCIP  
 - Celer cBridge & Interchain Messaging
@@ -53,7 +56,7 @@ Working on projects using:
 ---
 
 ## 🚀 Project: [yieldz.cc](https://yieldz.cc) – A Platform for Single-Sided Staking
-
+  
 I am the **founder and sole creator** of [yieldz.cc](https://yieldz.cc). From the initial idea to the final product, I fully conceptualized, designed, and developed the platform myself.
 
 ### 🔧 My Role & Responsibilities
